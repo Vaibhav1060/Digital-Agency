@@ -97,7 +97,7 @@
   // Active Link
   
   let mainNavLinks = document.querySelectorAll(".header__link");
-  let mainSections = document.querySelectorAll("section");
+ 
   
   window.addEventListener("scroll", (event) => {
     let fromTop = window.scrollY - 50;
