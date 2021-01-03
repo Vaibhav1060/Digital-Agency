@@ -12,13 +12,13 @@
     width:5rem;
     height:5rem;
     border-radius: 50%;
-    background-color: orange;
+    background-color: $orange-color;
     position: relative;
   }
 
   &__icon{
     @include absCenter;
-    color:white;
+    color:$white-color;
   }
 }
 

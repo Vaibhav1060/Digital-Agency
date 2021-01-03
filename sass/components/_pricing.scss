@@ -43,7 +43,7 @@
          
          text-align: center;
          padding:3rem 1rem;
-         color:white;
+         color:$white-color;
 
          @include respond(tab-land) {
           margin-bottom: 8rem;
@@ -85,7 +85,7 @@
 
         &__bg{
             background-color: $purple-color;
-            color:white;
+            color:$white-color;
     
             &__plan{
                color:$purple-color;

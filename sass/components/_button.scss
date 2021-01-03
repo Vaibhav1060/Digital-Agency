@@ -34,7 +34,7 @@
 
         &-progress{
             background-color: transparent;
-            border:1px solid white;
+            border:1px solid $white-color;
             color:#fff;
             padding:0.5rem 0.5rem;
 
@@ -46,7 +46,7 @@
         &__pricing{
             padding:1rem 2rem;
             background-color: $orange-color;
-            color:white;
+            color: $white-color;
         }
 
       

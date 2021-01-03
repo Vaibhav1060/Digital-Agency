@@ -44,7 +44,7 @@
 
     &__info {
       @include absCenter;
-      color: white;
+      color: $white-color;
 
       &__heading {
         font-size: 3rem;
@@ -67,7 +67,7 @@
   }
 
   &__icon {
-    color: white;
+    color: $white-color;
   }
 
   &__col2 {

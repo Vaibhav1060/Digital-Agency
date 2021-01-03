@@ -29,12 +29,12 @@
            margin-bottom: 5rem;
            }
     
-        color: #3b3663;
+        color: $purple-color;
         transition:all 0.3s ease;
 
         &:hover{
-            background-color:#3b3663;
-            color:white;
+            background-color:$purple-color;
+            color: $white-color;
         }
         &__heading{
             font-size: 1.6rem;
