@@ -49,6 +49,7 @@
       &__heading {
         font-size: 3rem;
         margin: 1rem 0rem;
+        
 
         @include respond(phone) {
           font-size: 2.5rem;
@@ -84,10 +85,12 @@
     &__heading {
       font-size: 1.8rem;
       margin-bottom: 1rem;
+      color:$purple-color;
     }
 
     &__text {
       font-size: 1.2rem;
+      color:$color;
     }
 
     &__info {
